@@ -1,0 +1,32 @@
+[
+  {
+    "ticker": "TOPO⚡️",
+    "poolId": "9dda57fac3474adbe8b64be48aafeff6aa31f59909231f202b642d33",
+    "social": {
+      "facebook": "",
+      "twitter": "TOPO_Pool",
+      "website": "https://topopool.com/",
+      "reddit": "A_Vilsmeier",
+      "instagram": "",
+      "youtube": "https://youtube.com/CardanoHispano"
+    },
+    "telegram": "CrypTopo",
+    "operatorName": "Alfred",
+    "github": "avilsmeier"
+  },
+  {
+    "ticker": "FALCO",
+    "poolId": "50de79c63d672319e20be59c620eb57ed1de8b7cc7fa489d8f22e353",
+    "social": {
+      "facebook": "",
+      "twitter": "FalconStakepool",
+      "website": "https://FalconStakepool.com",
+      "reddit": "matifalcone",
+      "instagram": "mat.falcon",
+      "youtube": "https://youtube.com/UCML7F2_4Wu_HWD3UakUR6lg"
+    },
+    "telegram": "matifalcone",
+    "operatorName": "Falcon",
+    "github": "MatiFalcone"
+  }
+]
