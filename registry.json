@@ -31,10 +31,10 @@
   },
   {
     "ticker": "WHITE",
-    "poolId": "50de79c63d672319e20be...de8b7cc7fa489d8f22e353",
+    "poolId": "8fa4537044c02b232430dca78f51ca74c22d1ed7fb990be8b65d2794",
     "social": {
       "facebook": "",
-      "twitter": "CriptoGirlB",
+      "twitter": "CriptogirlB",
       "website": "https://white.topopool.com",
       "reddit": "",
       "instagram": "",
@@ -42,6 +42,6 @@
     },
     "telegram": "PowerG",
     "operatorName": "Euge",
-    "github": "TOPO-pool"
+    "github": ""
   }
 ]
