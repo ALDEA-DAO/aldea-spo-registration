@@ -28,5 +28,20 @@
     "telegram": "matifalcone",
     "operatorName": "Falcon",
     "github": "MatiFalcone"
+  },
+  {
+    "ticker": "WHITE",
+    "poolId": "50de79c63d672319e20be...de8b7cc7fa489d8f22e353",
+    "social": {
+      "facebook": "",
+      "twitter": "CriptoGirlB",
+      "website": "https://white.topopool.com",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "PowerG",
+    "operatorName": "Euge",
+    "github": "TOPO-pool"
   }
 ]
