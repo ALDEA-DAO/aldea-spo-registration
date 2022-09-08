@@ -21,4 +21,3 @@ Por favor usar este JSON como plantilla y agregar sus datos al final de la lista
       "github_handle": ""
     }
 }
-```json
