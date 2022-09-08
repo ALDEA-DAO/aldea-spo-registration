@@ -338,5 +338,23 @@
       "discord_handle": "",
       "github_handle": "scap2000"
     }
+  },
+  {
+    "hex": "8fa4537044c02b232430dca78f51ca74c22d1ed7fb990be8b65d2794",
+    "ticker": "WHITE",
+    "name": "The WhiteProject",
+    "description": "A 100% non profit pool, all pool operator's rewards will be donated to impactful charity projects",
+    "homepage": "https://white.topopool.com",
+    "url_png_logo": "https://storage.googleapis.com/topo-pool/white-logo.png",
+    "location": "LATAM",
+    "social": {
+      "twitter_handle": "CriptoGirlB",
+      "telegram_handle": "PowerG",
+      "facebook_handle": "terranitalunatika",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": "",
+      "github_handle": "WHITECardano"
+    }
   }
 ]
