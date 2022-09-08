@@ -91,11 +91,18 @@
     }
   },
   {
-    "hex": "50de79c63d672319e20be59c620eb57ed1de8b7cc7fa489d8f22e353",
     "ticker": "FALCO",
-    "name": "Falcon Cardano Stakepool",
-    "description": "El primer Stakepool de Argentina dedicado a promover e impulsar la tecnología Blockchain y los Smart Contracts. We are driving Cardano adoption in Argentina and Latin America.",
-    "homepage": "https://falconstakepool.com"
+    "poolId": "50de79c63d672319e20be59c620eb57ed1de8b7cc7fa489d8f22e353",
+    "social": {
+      "twitter": "FalconStakepool",
+      "website": "https://FalconStakepool.com",
+      "reddit": "matifalcone",
+      "instagram": "mat.falcon",
+      "youtube": "https://youtube.com/UCML7F2_4Wu_HWD3UakUR6lg"
+    },
+    "telegram": "matifalcone",
+    "operatorName": "Falcon",
+    "github": "MatiFalcone"
   },
   {
     "hex": "6f31ed70d9969a5f22486b8c021ffd9aac569bb4351a040e4e9e1249",
