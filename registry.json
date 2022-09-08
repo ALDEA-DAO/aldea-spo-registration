@@ -70,12 +70,6 @@
       "discord_handle": "dmzdmbNWHy",
       "youtube_handle": "channel/UCp9eS0LktitBwJctaWpZcgQ",
       "instagram_handle": "quixotepool"
-    },
-    "my-pool-ids": {
-      "0": "351a90a0253fb3595ccc460438b9947cd8a0b9a7f457f3478bbb31d8"
-    },
-    "when-satured-then-recommend": {
-      "0": "Small pools - support Decentralization"
     }
   },
   {
@@ -173,10 +167,10 @@
   },
   {
     "hex": "9c34cce57970faf103ff9023a1b975445b483ff361b62d98eac8437a",
-    "ticker": null,
-    "name": null,
-    "description": null,
-    "homepage": null
+    "ticker": "NKLEO",
+    "name": "NKLEO Pool",
+    "description": "NKLEO la primera Stake Pool Colombiana, ayudando en la descentralización de la Red Blockchain Cardano.",
+    "homepage": "https://nkleo.com"
   },
   {
     "hex": "9dda57fac3474adbe8b64be48aafeff6aa31f59909231f202b642d33",
@@ -269,16 +263,6 @@
       "twitch_handle": "",
       "discord_handle": "",
       "github_handle": ""
-    },
-    "my-pool-ids": {
-      "0": "c6074d596a4d1629304bfd92715ec1677aeb378e4932723616d575f1"
-    },
-    "when-satured-then-recommend": {
-      "0": "50de79c63d672319e20be59c620eb57ed1de8b7cc7fa489d8f22e353"
-    },
-    "telegram-admin-handle": {
-      "0": "JulianMiralles",
-      "1": "santistake"
     }
   },
   {
@@ -321,10 +305,10 @@
   },
   {
     "hex": "e8e00995c7f3820fedf01e75a443c56e20f96ddcf9168b662ce2fdcd",
-    "ticker": null,
-    "name": null,
-    "description": null,
-    "homepage": null,
+    "ticker": "LATIN,
+    "name": "Latino_Staking_Pool",
+    "description": "We are totally aligned with Cardano's Vision and Mission with the intention of making our world a more fair place for all/Comprometidos con la Vision y la Mision de Cardano con la Intencion de hacer de nuestro mundo un lugar mas justo para todos",
+    "homepage": "https://cardanolatino.com/cardanoenglish/Latino-Staking-Pool-Eng/,
     "url_png_logo": "https://raw.githubusercontent.com/CL-LLC/MD/main/cl-llc.png",
     "location": "Wyoming, USA",
     "social": {
@@ -335,23 +319,7 @@
       "twitch_handle": "",
       "discord_handle": "",
       "github_handle": "CL-LLC"
-    },
-    "my-pool-ids": {
-      "0": "e8e00995c7f3820fedf01e75a443c56e20f96ddcf9168b662ce2fdcd",
-      "1": "022b8984468ce027002518bb37100cfda5e237a63bb50576db81c7c4"
-    },
-    "when-satured-then-recommend": {
-      "0": "",
-      "1": ""
-    },
-    "telegram-admin-handle": {
-      "0": ""
-    },
-    "itn": {
-      "owner": "ed25519_pk1uu4jkng2tpaatk2k4yffsaxf9r0yx0uzgdjls87v9jz59qgczsgs775ah5",
-      "witness": "ed25519_sig1nxt3h85exe8jneq0vjdm2pk89kfgvncj5ar40psc8z0q6rqxu6uc8xx9v6tdkh97llf0wc8y2cvcazks9atana075ws82qcwvltjvpcjd3676"
-    },
-    "verification string": "859c3ae73da45bfc96"
+    }
   },
   {
     "hex": "9850877b3c73df643d6b9d21aa47b6e86f319460e0ca4044eb769bcb",
