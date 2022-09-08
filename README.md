@@ -2,6 +2,7 @@ JSON formatted list of ALDEA pools
 
 Por favor usar este JSON como plantilla y agregar sus datos al final de la lista en el archivo registry.json.
 
+```json
 {
     "hex": "pool_id_in_hex",
     "ticker": "",
@@ -19,4 +20,5 @@ Por favor usar este JSON como plantilla y agregar sus datos al final de la lista
       "discord_handle": "",
       "github_handle": ""
     }
-  }
+}
+```json
