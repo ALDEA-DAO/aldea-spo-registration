@@ -4,8 +4,8 @@ Por favor usar este JSON como plantilla y agregar sus datos al final de la lista
 
 ```json
 {
-    "hex": "pool_id_in_hex",
-    "ticker": "",
+    "hex": "pool_id_in_hex", # Mandatory
+    "ticker": "", # Mandatory
     "name": "",
     "description": "",
     "homepage": "",
