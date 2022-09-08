@@ -1,47 +1,374 @@
 [
   {
-    "ticker": "TOPO⚡️",
-    "poolId": "9dda57fac3474adbe8b64be48aafeff6aa31f59909231f202b642d33",
+    "hex": "19ffb80dbc1e627a5c5aafadf50257210d66ff35ef2961cb10065b53",
+    "ticker": "1Mate",
+    "name": "1Mate",
+    "description": "The brand new 1Mate stake pool",
+    "homepage": "https://1mate.io",
+    "url_png_logo": "https://raw.githubusercontent.com/jumecci/S/0769d3747f834fa21867d5710d574c5df844f52a/1mateh.png",
+    "location": "Patagonia, Argentina",
     "social": {
-      "facebook": "",
-      "twitter": "TOPO_Pool",
-      "website": "https://topopool.com/",
-      "reddit": "A_Vilsmeier",
-      "instagram": "",
-      "youtube": "https://youtube.com/CardanoHispano"
-    },
-    "telegram": "CrypTopo",
-    "operatorName": "Alfred",
-    "github": "avilsmeier"
+      "twitter_handle": "@1mate_io",
+      "telegram_handle": "",
+      "facebook_handle": "",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": "https://discord.gg/zTCmeMXC",
+      "github_handle": ""
+    }
   },
   {
+    "hex": "1ed9bb5ed9e686c0ae6bfbcd8f61f7189b56c77d1ec42eb2b3465323",
+    "ticker": "DOT5",
+    "name": "DOT5",
+    "description": "Our goal is to allow ADA hodlers to keep as much ADA as possible from Staking. 0% margin fee till 20M Live Stake, then PERMANENT .5% margin fee, never more.",
+    "homepage": "https://adapools.org/pool/1ed9bb5ed9e686c0ae6bfbcd8f61f7189b56c77d1ec42eb2b3465323"
+  },
+  {
+    "hex": "26d2e140cb8d11143501d7883d1cf5a6adba156e1f8f27d327f10b57",
+    "ticker": "MOXIE",
+    "name": "MoxiePool",
+    "description": "Moxie is live because we love everything about Cardano. Let's make some blocks",
+    "homepage": "https://moxietech.co",
+    "url_png_logo": "https://moxietech.co/Moxie_icon.PNG",
+    "location": "Bogota, Colombia",
+    "social": {
+      "twitter_handle": "LARestrepoMu",
+      "telegram_handle": "MoxiePoolCardano"
+    }
+  },
+  {
+    "hex": "3162c21a847e9869471ae27b7f1f52600291c1f5bbbea8e3572d3f8f",
+    "ticker": "MAMBA",
+    "name": "Mamba Pool",
+    "description": "¡Bienvenido a Mamba Pool! Participe en este maravilloso proyecto, en el cual nos comprometemos a proporcionar servicios de staking de alta calidad mediante fiabilidad, honestidad y rendimiento de clase empresarial. ¡Feliz staking!",
+    "homepage": "https://mambapool.org",
+    "url_png_logo": "https://mambapool.org/wp-content/uploads/2021/05/bannerMamba.png",
+    "location": "La Habana, Cuba",
+    "social": {
+      "twitter_handle": "MambaPool",
+      "telegram_handle": "mambapool",
+      "facebook_handle": "",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": "",
+      "github_handle": ""
+    }
+  },
+  {
+    "hex": "351a90a0253fb3595ccc460438b9947cd8a0b9a7f457f3478bbb31d8",
+    "ticker": "QXT",
+    "name": "Quixote Dream Pool",
+    "description": "Dream the impossible dream like Quixote! Support Tech Projects in La Mancha, one of the most under-developed Regions in Europe",
+    "homepage": "https://quixote.systems",
+    "url_png_logo": "https://quixote.systems/quixoteLogo.png",
+    "location": "Toledo, Spain",
+    "social": {
+      "telegram_handle": "QuixotePool",
+      "twitter_handle": "QuixotePool",
+      "github_handle": "quixotesystems",
+      "discord_handle": "dmzdmbNWHy",
+      "youtube_handle": "channel/UCp9eS0LktitBwJctaWpZcgQ",
+      "instagram_handle": "quixotepool"
+    },
+    "my-pool-ids": {
+      "0": "351a90a0253fb3595ccc460438b9947cd8a0b9a7f457f3478bbb31d8"
+    },
+    "when-satured-then-recommend": {
+      "0": "Small pools - support Decentralization"
+    }
+  },
+  {
+    "hex": "38d44f2bbccd27b654e532e6937e3a60b900168082f5c1b4fe236974",
+    "ticker": "ALPCH",
+    "name": "Alpen Cardano",
+    "description": "Adas in the Alps",
+    "homepage": "https://www.alpencardano.io",
+    "url_png_logo": "http://www.eltrotamontes.com/fotos/alpen_cardano_m.jpg",
+    "location": "Switzerland, Europe",
+    "social": {
+      "twitter_handle": "Mikelalpch",
+      "telegram_handle": "mikelalpch",
+      "facebook_handle": "alpencardano/",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": "",
+      "github_handle": ""
+    }
+  },
+  {
+    "hex": "50de79c63d672319e20be59c620eb57ed1de8b7cc7fa489d8f22e353",
     "ticker": "FALCO",
-    "poolId": "50de79c63d672319e20be59c620eb57ed1de8b7cc7fa489d8f22e353",
-    "social": {
-      "facebook": "",
-      "twitter": "FalconStakepool",
-      "website": "https://FalconStakepool.com",
-      "reddit": "matifalcone",
-      "instagram": "mat.falcon",
-      "youtube": "https://youtube.com/UCML7F2_4Wu_HWD3UakUR6lg"
-    },
-    "telegram": "matifalcone",
-    "operatorName": "Falcon",
-    "github": "MatiFalcone"
+    "name": "Falcon Cardano Stakepool",
+    "description": "El primer Stakepool de Argentina dedicado a promover e impulsar la tecnología Blockchain y los Smart Contracts. We are driving Cardano adoption in Argentina and Latin America.",
+    "homepage": "https://falconstakepool.com"
   },
   {
-    "ticker": "WHITE",
-    "poolId": "8fa4537044c02b232430dca78f51ca74c22d1ed7fb990be8b65d2794",
+    "hex": "6f31ed70d9969a5f22486b8c021ffd9aac569bb4351a040e4e9e1249",
+    "ticker": "STACA",
+    "name": "staca.co",
+    "description": "Pool centrado en la comunidad hispana, dirigido por 3 profesionales en datos y tecnología. 0% comisiones y monitorización 24/7. Nuestro objetivo es ayudar a la comunidad hispanohablante a entender Blockchain, su potencial y los proyectos existentes.",
+    "homepage": "https://staca.co"
+  },
+  {
+    "hex": "70e483a5702e3907e4079113470209ceab93ad83070c84a62b20b350",
+    "ticker": "TCHP",
+    "name": "TricahuePool",
+    "description": "A Stake Pool for the Cardano network located in Chile",
+    "homepage": "https://eztero.github.io/TricahuePool/index.html",
+    "url_png_logo": "",
+    "location": "Chile",
     "social": {
-      "facebook": "",
-      "twitter": "CriptogirlB",
-      "website": "https://white.topopool.com",
-      "reddit": "",
-      "instagram": "",
-      "youtube": ""
+      "twitter_handle": "TCHPool",
+      "telegram_handle": "",
+      "facebook_handle": "",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": "",
+      "github_handle": ""
+    }
+  },
+  {
+    "hex": "7e7eb329d995759d2b9fdb85b8d0c9e3fa2e57c460641c8fc875e780",
+    "ticker": "CHIL",
+    "name": "Chile_Stake_po",
+    "description": "Safe delegation of your Ada / Delega seguro tu Ada",
+    "homepage": "https://www.chilestakepo.cl"
+  },
+  {
+    "hex": "8fa4537044c02b232430dca78f51ca74c22d1ed7fb990be8b65d2794",
+    "ticker": "WHITE",
+    "name": "The White Project",
+    "description": "Non-Profit pool",
+    "homepage": "https://white.topopool.com",
+    "url_png_logo": "https://storage.googleapis.com/topo-pool/white-logo.png",
+    "location": "Argentina",
+    "social": {
+      "twitter_handle": "CriptoGirlB",
+      "telegram_handle": "TWPArgentina",
+      "facebook_handle": "",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": "",
+      "github_handle": ""
+    }
+  },
+  {
+    "hex": "9a881d6856d6e31820f653ef066ec55bbc6ce60e1370935e662df659",
+    "ticker": "ONE1",
+    "name": "ONE Pool",
+    "description": "The World will be as ONE | El mundo volvera a ser UNO | 世界將合而為一 | 世界は一つになります",
+    "homepage": "https://adapool.one"
+  },
+  {
+    "hex": "9af540f1fa5fd08967b919cfa525b2e14ed68c66e95d3746d5fdd2c4",
+    "ticker": "FIXA",
+    "name": "PoolFixAda",
+    "description": "A pragmatic low fees approach to staking, with a trusted and established pool operator. Don't hesitate to request support at POOL FIX Telegram channel. Sede in Europe",
+    "homepage": "https://poolfixada.com",
+    "social": {
+      "twitter_handle": "PoolFix3",
+      "telegram_handle": "PoolFixChat"
+    }
+  },
+  {
+    "hex": "9c34cce57970faf103ff9023a1b975445b483ff361b62d98eac8437a",
+    "ticker": null,
+    "name": null,
+    "description": null,
+    "homepage": null
+  },
+  {
+    "hex": "9dda57fac3474adbe8b64be48aafeff6aa31f59909231f202b642d33",
+    "ticker": "TOPO⚡",
+    "name": "TOPO⚡ Pool",
+    "description": "Passionate IT pro with 20+ years experience. Pool up since epoch 208 with 99.9% uptime. Member of ALDEA DAO",
+    "homepage": "https://topopool.com",
+    "url_png_logo": "https://storage.googleapis.com/topo-pool/ada.png",
+    "location": "Earth",
+    "social": {
+      "twitter_handle": "TOPO_Pool",
+      "telegram_handle": "TOPOpool",
+      "facebook_handle": "",
+      "youtube_handle": "CardanoHispano",
+      "twitch_handle": "",
+      "discord_handle": "CrypTopo [TOPO⚡]#9159",
+      "github_handle": ""
+    }
+  },
+  {
+    "hex": "b4122e4d02a6986e9604d5c74ab2974e80638f78e6bd1aa01b883e6e",
+    "ticker": "EUSKL",
+    "name": "EUSKAL STAKE POOL",
+    "description": "High Performance, Safe and Supportive Cardano Stake Pool",
+    "homepage": "https://euskalstakepool.win",
+    "url_png_logo": "https://euskalstakepool.win/wp-content/uploads/2021/03/euskalstakepool-cardano-to-the-moon-50k.png",
+    "location": "Bilbao, Spain",
+    "social": {
+      "twitter_handle": "euskalstakepool",
+      "telegram_handle": "+OWS5F7Tpp85iODU0",
+      "facebook_handle": "",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": "E7PTx3mkee",
+      "github_handle": ""
+    }
+  },
+  {
+    "hex": "bb224ee756ce73c513d9e43323560e6ab644db83fb57eff613503953",
+    "ticker": "BLESS",
+    "name": "God BlESS You",
+    "description": "Bless is a pool created for charity purposes, please support us",
+    "homepage": "https://sites.google.com/view/poolblessvenezuela/p%C3%A1gina-principal"
+  },
+  {
+    "hex": "bd24b3372791f401cc029455c44ea77f3c8750ce3b804a354af0ff16",
+    "ticker": "PEACE",
+    "name": "PEACEpool Cardano ecosystem developers",
+    "description": "La PEACEpool resist₳nce is a collective of (PEACE) builders contributing to projects such @LacedWhales Twitter Bot, Dandelion Network and GameChanger Wallet among others.",
+    "homepage": "https://twitter.com/repsistance"
+  },
+  {
+    "hex": "bd5f6b254798e3ddde1a9c3609fa9d6e468d638bd9103afb02e29ae5",
+    "ticker": "TANGO",
+    "name": "💃 Tango Pool 🕺",
+    "description": "If you get all tangled up, just tango on.",
+    "homepage": "https://www.tangocrypto.com",
+    "url_png_logo": "https://www.tangocrypto.com/images/logo.png",
+    "location": "Uruguay, England",
+    "social": {
+      "twitter_handle": "tango_crypto",
+      "telegram_handle": "tangocrypto",
+      "facebook_handle": "",
+      "youtube_handle": "channel/UCmBDcgWgk3SOQA91s-rAFZg",
+      "twitch_handle": "",
+      "discord_handle": "",
+      "github_handle": ""
+    }
+  },
+  {
+    "hex": "c29dd3c55a4f3f3b02aae6463ef8e1e66a70b5d000f8a6dc3430ef04",
+    "ticker": "ITZA",
+    "name": "Chichen Itza",
+    "description": "Stake Pool from Argentina, Member of AldeaDAO, Member of Single Pool Alliance, Hosky Rug Pool, Carbon Neutral, Geo-redundancy, Poolperks",
+    "homepage": "https://latinstakepools.com/"
+  },
+  {
+    "hex": "c6074d596a4d1629304bfd92715ec1677aeb378e4932723616d575f1",
+    "ticker": "APOLO",
+    "name": "Apolo Stake Pool",
+    "description": "Argentina and Brasil based stake pool - Growing the Cardano ecosystem in South America",
+    "homepage": "https://apolostakepool.com",
+    "url_png_logo": "https://raw.githubusercontent.com/apolo88/ac/t/LogoApolo.png",
+    "location": "Buenos Aires, Argentina",
+    "social": {
+      "twitter_handle": "apolostakepool",
+      "telegram_handle": "apolosp",
+      "facebook_handle": "",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": "",
+      "github_handle": ""
     },
-    "telegram": "PowerG",
-    "operatorName": "Euge",
-    "github": "WHITECardano"
+    "my-pool-ids": {
+      "0": "c6074d596a4d1629304bfd92715ec1677aeb378e4932723616d575f1"
+    },
+    "when-satured-then-recommend": {
+      "0": "50de79c63d672319e20be59c620eb57ed1de8b7cc7fa489d8f22e353"
+    },
+    "telegram-admin-handle": {
+      "0": "JulianMiralles",
+      "1": "santistake"
+    }
+  },
+  {
+    "hex": "d32d813142d2f64987dc0bef23864d8f642beaea38698fd79cfd6f68",
+    "ticker": "MOJTO",
+    "name": "MojitoPool",
+    "description": "Un pool latino: independiente, profesional y seguro",
+    "homepage": "https://www.mojitopool.com"
+  },
+  {
+    "hex": "d39231fdecb829f683aae46c23ef651fbf40efe0071fad7909912c9b",
+    "ticker": "ADAMX",
+    "name": "🇲🇽Mexico🇲🇽 Pool",
+    "description": "Navel of the moon",
+    "homepage": "https://twitter.com/AdaMXPool/",
+    "url_png_logo": "https://caesar44.github.io/testreg1/adapool200.png",
+    "location": "Acapulco, Mexico",
+    "social": {
+      "twitter_handle": "AdaMXPool",
+      "telegram_handle": "cesar44"
+    }
+  },
+  {
+    "hex": "d8cc8d4198e23dbc5685c6682e6ea06e82fbd93879e42086e64ccc21",
+    "ticker": "PET♥",
+    "name": "PetLoverStake",
+    "description": "A place for pet lovers and environmentalists who bet on Cardano as the crypto of the future",
+    "homepage": "https://petloverstake.com",
+    "url_png_logo": "https://petloverstake.com/pet-massive-i.png",
+    "location": "Germany",
+    "social": {
+      "twitter_handle": "PetStake",
+      "telegram_handle": "petloverstake",
+      "facebook_handle": "petloverstake",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": "",
+      "github_handle": "petloverstake"
+    }
+  },
+  {
+    "hex": "e8e00995c7f3820fedf01e75a443c56e20f96ddcf9168b662ce2fdcd",
+    "ticker": null,
+    "name": null,
+    "description": null,
+    "homepage": null,
+    "url_png_logo": "https://raw.githubusercontent.com/CL-LLC/MD/main/cl-llc.png",
+    "location": "Wyoming, USA",
+    "social": {
+      "twitter_handle": "cardanolatino",
+      "telegram_handle": "cardanolatino",
+      "facebook_handle": "CardanoLatinoUS",
+      "youtube_handle": "channel/UCOJ_TtwIG7F-mzadfkbmfGg",
+      "twitch_handle": "",
+      "discord_handle": "",
+      "github_handle": "CL-LLC"
+    },
+    "my-pool-ids": {
+      "0": "e8e00995c7f3820fedf01e75a443c56e20f96ddcf9168b662ce2fdcd",
+      "1": "022b8984468ce027002518bb37100cfda5e237a63bb50576db81c7c4"
+    },
+    "when-satured-then-recommend": {
+      "0": "",
+      "1": ""
+    },
+    "telegram-admin-handle": {
+      "0": ""
+    },
+    "itn": {
+      "owner": "ed25519_pk1uu4jkng2tpaatk2k4yffsaxf9r0yx0uzgdjls87v9jz59qgczsgs775ah5",
+      "witness": "ed25519_sig1nxt3h85exe8jneq0vjdm2pk89kfgvncj5ar40psc8z0q6rqxu6uc8xx9v6tdkh97llf0wc8y2cvcazks9atana075ws82qcwvltjvpcjd3676"
+    },
+    "verification string": "859c3ae73da45bfc96"
+  },
+  {
+    "hex": "9850877b3c73df643d6b9d21aa47b6e86f319460e0ca4044eb769bcb",
+    "ticker": "TIK",
+    "name": "TKCoin.org Stake Pool",
+    "description": "TKCoin.org - Non profit organization for Education",
+    "homepage": "https://tkcoin.org/tikpool",
+    "url_png_logo": "https://tkcoin.org/poolLogo.png",
+    "location": "Salta, Argentina",
+    "social": {
+      "twitter_handle": "tkcoinorg",
+      "telegram_handle": "tkcoinorg",
+      "facebook_handle": "",
+      "youtube_handle": "tkcoinorg",
+      "twitch_handle": "",
+      "discord_handle": "",
+      "github_handle": "scap2000"
+    }
   }
 ]
