@@ -28,3 +28,13 @@ Para darte de alta, simplemente crea un Pull Request (PR) con la información de
     }
 }
 ```
+
+## Contacto
+
+Si deseas tener un papel activo en nuestra comunidad, te invitamos a que te unas a nuestros redes sociales:
+
+- [Telegram](https://fogon.aldea-dao.org)
+- [Discord](https://discord.aldea-dao.org)
+- [Twitter](https://twitter.com/aldeadao)
+- [YouTube](https://www.youtube.com/channel/UCwyOB8dm8D8jHrmFNvhzEig)
+- [Instagram](https://instagram.com/aldeadao)
