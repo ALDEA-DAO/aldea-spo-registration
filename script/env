@@ -1,0 +1,9 @@
+#ADAFOLIO ALDEA
+FOLIO_URL="https://api.adafolio.com/get-portfolio?portfolio_id="
+FOLIO_ID="b8e11970-b9f3-11eb-8c63-0242c0a86003"
+
+#Definimos KEY de la API de Blockfrost
+KEY="mainnet......4SGokYYG5i1"
+APIUrl="https://cardano-mainnet.blockfrost.io/api/v0"
+
+SnapLog=Snapshot.log
