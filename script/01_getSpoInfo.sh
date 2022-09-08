@@ -21,7 +21,7 @@ done
 
 INFO_FINAL=$(echo $INFO_BATCH | jq -s .)
 echo -e "FINAL INFO: "
-echo $INFO_FINAL | jq . | tee ./spo-registration.json
+echo $INFO_FINAL | jq . | tee ./registry.json
 
 }
 
