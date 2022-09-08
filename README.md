@@ -1,11 +1,17 @@
-JSON formatted list of ALDEA pools
+# ALDEA: Registro de SPOs
 
-Por favor usar este JSON como plantilla y agregar sus datos al final de la lista en el archivo registry.json.
+En este repositorio, los SPOs pueden registrarse para ser miembros de ALDEA.
+
+Todos los stake pools que forman parte de ALDEA están colaborando para promover la descentralización y la adopción de Cardano en América Latina. 
+
+Al darte de alta en este registro, te estás comprometiendo con esta causa y, por ende, con la idea de operar ÚNICAMENTE un solo pool.
+
+Para darte de alta, simplemente crea un Pull Request (PR) con la información de tu stake pool, siguiendo este formato JSON:
 
 ```json
 {
-    "hex": "pool_id_in_hex", # Mandatory
-    "ticker": "", # Mandatory
+    "hex": "pool_id_in_hex",
+    "ticker": "",
     "name": "",
     "description": "",
     "homepage": "",
@@ -21,3 +27,4 @@ Por favor usar este JSON como plantilla y agregar sus datos al final de la lista
       "github_handle": ""
     }
 }
+```
