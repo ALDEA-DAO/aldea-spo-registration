@@ -345,5 +345,23 @@
       "discord_handle": "",
       "github_handle": "WHITECardano"
     }
+  },
+  {
+    "hex": "92fcdd76d1d9d13910cbe1930765543984e6f4ef9b7efed3cc6536a1",
+    "ticker": "CARDS",
+    "name": "Cardanistas Stake Pool",
+    "description": "A stakepool, based in Brazil, that supports education and diversity on Cardano Community. // Uma stakepool, com sede no Brasil, que apoia a educação e a diversidade na Comunidade Cardano.",
+    "homepage": "https://www.cardanistas.io",
+    "url_png_logo": "https://i.pinimg.com/280x280_RS/af/3e/a3/af3ea37477d203228ec6200112967bae.jpg",
+    "location": "Brazil",
+    "social": {
+      "twitter_handle": "cardanistas",
+      "telegram_handle": "canalcardanistas",
+      "facebook_handle": "cardanistas",
+      "youtube_handle": "cardanistas",
+      "twitch_handle": "",
+      "discord_handle": "",
+      "github_handle": "CardanistasTeam"
+    }
   }
 ]
