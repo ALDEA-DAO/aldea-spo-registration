@@ -38,24 +38,6 @@
     }
   },
   {
-    "hex": "3162c21a847e9869471ae27b7f1f52600291c1f5bbbea8e3572d3f8f",
-    "ticker": "MAMBA",
-    "name": "Mamba Pool",
-    "description": "¡Bienvenido a Mamba Pool! Participe en este maravilloso proyecto, en el cual nos comprometemos a proporcionar servicios de staking de alta calidad mediante fiabilidad, honestidad y rendimiento de clase empresarial. ¡Feliz staking!",
-    "homepage": "https://mambapool.org",
-    "url_png_logo": "https://mambapool.org/wp-content/uploads/2021/05/bannerMamba.png",
-    "location": "La Habana, Cuba",
-    "social": {
-      "twitter_handle": "MambaPool",
-      "telegram_handle": "mambapool",
-      "facebook_handle": "",
-      "youtube_handle": "",
-      "twitch_handle": "",
-      "discord_handle": "",
-      "github_handle": ""
-    }
-  },
-  {
     "hex": "351a90a0253fb3595ccc460438b9947cd8a0b9a7f457f3478bbb31d8",
     "ticker": "QXT",
     "name": "Quixote Dream Pool",
