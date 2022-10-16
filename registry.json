@@ -363,5 +363,22 @@
       "discord_handle": "",
       "github_handle": "CardanistasTeam"
     }
+  },
+  {
+    "hex": "91991d9238f3f270a46fc237acc3abcdf2456ff163c1639951d75d15",
+    "ticker": "COINZ",
+    "name": "ADA COINZ",
+    "description": "COINZ Stake pool powering the Cardano blockchain",
+    "homepage": "https://adacoinz.com",
+    "url_png_logo": "https://adacoinz.com/assets/img/coinz-logo2.png",
+    "location": "CA, United States",
+    "social": {
+      "telegram_handle": "adacoinz_spo",
+      "twitter_handle": "adacoinz",
+      "github_handle": "adacoinz",
+      "discord_handle": "adacoinz#7730",
+      "youtube_handle": "channel/UCuBz3ZPM5lgd41sDaUCLmkw",
+      "instagram_handle": "adacoinz"
+    }
   }
 ]
