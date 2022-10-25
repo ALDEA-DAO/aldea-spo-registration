@@ -364,6 +364,20 @@
     }
   },
   {
+    "hex": "77ff160eacd3e99e84b70c9216f698965004da4b3dc628dac60cd290",
+    "ticker": "OTAKU",
+    "name": "OTAKU_Pool",
+    "description": "Otaku Pool nace para volver cardano mas descentralizado y amar el anime",
+    "homepage": "https://otakupool.com",
+    "url_png_logo": "https://otakupool.com/img/totoro_logo.png",
+    "location": "CDMX, Mexico",
+    "social": {
+    "twitter_handle": "otaku_pool",
+    "telegram_handle": "Otaku_pool",
+    "discord_handle": "OtakuPool#3349"
+    }
+  },
+  {
     "hex": "ac4c79de638c8bb08997e939dccde43fe347a392d11a7ddf77bf3816",
     "ticker": "XSEC",
     "name": "XSEC Cardano ADA Pool",
@@ -379,5 +393,5 @@
       "youtube_handle": "channel/UCf7EsfOXZlxWp78T28fF5Xw",
       "instagram_handle": "xsecadapool"
     }
-  }  
+  }
 ]
