@@ -374,7 +374,24 @@
     "social": {
     "twitter_handle": "otaku_pool",
     "telegram_handle": "Otaku_pool",
-    "discord_handle": "OtakuPool#3349",
+    "discord_handle": "OtakuPool#3349"
+    }
+  },
+  {
+    "hex": "ac4c79de638c8bb08997e939dccde43fe347a392d11a7ddf77bf3816",
+    "ticker": "XSEC",
+    "name": "XSEC Cardano ADA Pool",
+    "description": "eXtremely SECure Cardano ADA Pool",
+    "homepage": "https://ada.xsec.es",
+    "url_png_logo": "https://git.io/JZmAr",
+    "location": "Spain",
+    "social": {
+      "telegram_handle": "@adri_xsec",
+      "twitter_handle": "@XsecP",
+      "github_handle": "adriannavarrobetrian",
+      "discord_handle": "Adri - [XSEC]#0967",
+      "youtube_handle": "channel/UCf7EsfOXZlxWp78T28fF5Xw",
+      "instagram_handle": "xsecadapool"
     }
   }
 ]
