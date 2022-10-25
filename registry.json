@@ -362,5 +362,19 @@
       "youtube_handle": "channel/UCuBz3ZPM5lgd41sDaUCLmkw",
       "instagram_handle": "adacoinz"
     }
+  },
+  {
+    "hex": "77ff160eacd3e99e84b70c9216f698965004da4b3dc628dac60cd290",
+    "ticker": "OTAKU",
+    "name": "OTAKU_Pool",
+    "description": "Otaku Pool nace para volver cardano mas descentralizado y amar el anime",
+    "homepage": "https://otakupool.com",
+    "url_png_logo": "https://otakupool.com/img/totoro_logo.png",
+    "location": "CDMX, Mexico",
+    "social": {
+    "twitter_handle": "otaku_pool",
+    "telegram_handle": "Otaku_pool",
+    "discord_handle": "OtakuPool#3349",
+    }
   }
 ]
