@@ -393,5 +393,24 @@
       "youtube_handle": "channel/UCf7EsfOXZlxWp78T28fF5Xw",
       "instagram_handle": "xsecadapool"
     }
-  }
+  },
+  {
+    "hex": "70a96f885282fe2d810ca500713ba64998491257054bc2dd114d9f13",
+    "ticker": "JGRX",
+    "name": "Jaguares",
+    "description": "Cuida el ecosistema cultural creando puentes con Cardano.",
+    "homepage": "https://jaguares.org",
+    "url_png_logo": "https://user-images.githubusercontent.com/42287547/137223146-6918edc9-d17d-4788-9829-e367961a3d43.png",
+    "location": "Bogota, Colombia",
+    "social": {
+      "twitter_handle": "",
+      "telegram_handle": "@Danvegamo",
+      "facebook_handle": "",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": "",
+      "instagram_handle": "@jaguares_pool",
+      "github_handle": "danvegamo"
+    }
+}
 ]
